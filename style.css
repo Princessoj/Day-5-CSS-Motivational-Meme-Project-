@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.daenerys {
+    border: 5px solid white;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        color: white;
+        font-family: Libre Baskerville;
+        font-weight: 400;
+        font-size: 3rem;
+        }
+
+    .text {
+        text-align: center;    
+    }
+
+    p {
+        color: white; 
+    }
